@@ -1,0 +1,37 @@
+﻿  Client.cpp
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(62): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 'localtime' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(141): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 'inet_addr' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(203): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(155): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(155): note: 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(155): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(166): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(168): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(170): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(281): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(291): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(310): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(322): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(272): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(272): note: 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(272): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(279): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(289): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(304): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(320): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(337): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b409_22\downloads\b277018_박주성\serverfinal_2\consoleapplication3\consoleapplication3\client.cpp(267): warning C4101: 'inPassWord' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication3.vcxproj -> C:\Users\B409_22\Downloads\B277018_박주성\ServerFinal_2\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\B409_22\Downloads\B277018_박주성\ServerFinal_2\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Full PDB)
